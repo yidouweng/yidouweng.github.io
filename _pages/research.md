@@ -15,5 +15,5 @@ By integrating these paradigms, I develop new algorithms that augment large pre-
 ### Key Research Focus
 
 - **Methodology for Tractable Models:** Designing and applying tractable probabilistic graphical models to new challenges in AI.
-- **Generative + Probabilistic Models for Efficient Inference:**  Developing scalable algorithms that bring formal reasoning to deep learning systems.
+- **Generative + Probabilistic Models for Efficient Inference:** Developing scalable algorithms that bring formal reasoning to deep learning systems.
 - **Applications in AI Trustworthiness:** Focusing on explainability, controllability, and safety for foundation models.
