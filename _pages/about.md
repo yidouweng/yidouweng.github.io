@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://starai.cs.ucla.edu/'>StarAI Lab, UCLA</a>. Address. Contacts. Motto. Etc.
+subtitle: Updating my beliefs constantly.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>UCLA Computer Science</p>
+    <p>Los Angeles, CA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in the [Computer Science Department](https://www.cs.ucla.edu/) at the **University of California, Los Angeles (UCLA)**, where I am a member of the [StarAI Lab](https://starai.cs.ucla.edu/). I am fortunate to be advised by [Professor Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research lies at the intersection of **probabilistic machine learning** and **deep generative models**. I focus on the methodology, algorithms, and applications of **tractable probabilistic models**. My goal is to integrate these models with large foundation models (like LLMs) to enable **efficient and exact reasoning**. By improving their inference capabilities, I aim to make these powerful systems more **glass-box**, explainable, and reliable.
