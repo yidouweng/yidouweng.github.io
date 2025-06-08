@@ -2,6 +2,8 @@
 layout: page
 title: Research
 permalink: /research/
+nav: true
+nav_order: 2
 ---
 
 My research aims to reimagine the current generative AI landscape by making foundation models more **glass-box**, **explainable**, and **efficient**.
@@ -13,6 +15,5 @@ By integrating these paradigms, I develop new algorithms that augment large pre-
 ### Key Research Focus
 
 - **Methodology for Tractable Models:** Designing and applying tractable probabilistic graphical models to new challenges in AI.
-- **Efficient and Exact Inference:** Developing scalable algorithms that bring formal reasoning to deep learning systems.
-- **Integrating Generative & Probabilistic Models:** Building novel architectures where deep learning and tractable models work in concert.
+- **Generative + Probabilistic Models for Efficient Inference:**  Developing scalable algorithms that bring formal reasoning to deep learning systems.
 - **Applications in AI Trustworthiness:** Focusing on explainability, controllability, and safety for foundation models.
